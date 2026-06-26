@@ -1,0 +1,18 @@
+{
+  "items": [
+    {"label": "Home", "url": "/"},
+    {"label": "BI Solutions", "url": "/bi-solutions/", "children": [
+      {"label": "FutureWorks BI", "url": "/bi-solutions/futureworks-bi/"},
+      {"label": "FutureWorks BI National", "url": "/bi-solutions/futureworks-bi-national/"},
+      {"label": "Board Matters", "url": "/bi-solutions/board-matters/"}
+    ]},
+    {"label": "WIOA Impact Report", "url": "/wioa-impact-report/"},
+    {"label": "Company", "url": "/company/about/", "children": [
+      {"label": "About", "url": "/company/about/"},
+      {"label": "Clients", "url": "/company/clients/"},
+      {"label": "Careers", "url": "/company/careers/"}
+    ]},
+    {"label": "Connect", "url": "/connect/"},
+    {"label": "BI Sign In", "url": "https://fwsbi.com/", "external": true}
+  ]
+}

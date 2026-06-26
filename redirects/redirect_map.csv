@@ -1,0 +1,13 @@
+old_url,new_url,redirect_type,status,notes
+https://futureworksystems.com/,https://futureworksystems.com/,301,draft,Home remains home
+https://futureworksystems.com/Portals/0/FWSBI-Tiers.html,https://futureworksystems.com/bi-solutions/,301,draft,Canonical BI Solutions tier page
+https://futureworksystems.com/BI-Solutions,https://futureworksystems.com/bi-solutions/,301,draft,DNN route to static route
+https://futureworksystems.com/BI-Solutions/FutureWorks-BI,https://futureworksystems.com/bi-solutions/futureworks-bi/,301,draft,Product child page
+https://futureworksystems.com/BI-Solutions/FutureWorks-BI-National,https://futureworksystems.com/bi-solutions/futureworks-bi-national/,301,draft,Product child page
+https://futureworksystems.com/BI-Solutions/Board-Matters,https://futureworksystems.com/bi-solutions/board-matters/,301,draft,Board Matters page
+https://futureworksystems.com/Portals/0/Send-My-Impact-Report-FWS-Site-v1.htm,https://futureworksystems.com/wioa-impact-report/,301,draft,Impact report campaign page
+https://futureworksystems.com/Company,https://futureworksystems.com/company/about/,301,draft,Company parent to About
+https://futureworksystems.com/Company/Clients,https://futureworksystems.com/company/clients/,301,draft,Clients page
+https://futureworksystems.com/Company/Careers,https://futureworksystems.com/company/careers/,301,draft,Careers page
+https://futureworksystems.com/Connect,https://futureworksystems.com/connect/,301,draft,Contact page
+https://futureworksystems.com/Privacy,https://futureworksystems.com/privacy/,301,draft,Privacy page
